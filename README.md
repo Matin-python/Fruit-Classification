@@ -320,6 +320,25 @@ scikit-learn
 ```
 
 
+## Future Improvements
+
+* Add a confusion matrix for each classifier
+* Add precision, recall, and F1-score
+* Compare the four models using a visualization
+* Experiment with different KNN values
+* Tune Decision Tree parameters
+* Tune SVM parameters and kernels
+* Add predictions for new fruit samples
+* Create a simple user interface for fruit classification
+
+
+## Contributing
+
+Contributions are welcome.
+
+You can improve the visualization, add new Machine Learning algorithms, improve the evaluation process, or add new features to the project.
+
+
 ## License
 
 This project is licensed under the **MIT License**.
