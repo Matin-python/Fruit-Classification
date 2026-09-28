@@ -309,6 +309,17 @@ python fruit_classification.py
 The program will display the scatter matrix and print the training and test accuracy for all four Machine Learning models.
 
 
+## Requirements
+
+The main dependencies are:
+
+```text
+pandas
+matplotlib
+scikit-learn
+```
+
+
 ## License
 
 This project is licensed under the **MIT License**.
