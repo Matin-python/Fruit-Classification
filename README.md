@@ -234,6 +234,35 @@ print(
 The same evaluation process is applied to the Decision Tree, KNN, and SVM models.
 
 
+## Evaluation
+
+The models are evaluated using **accuracy scores**.
+
+Two accuracy values are reported for each classifier:
+
+* **Training Accuracy** — measures performance on the training dataset.
+* **Test Accuracy** — measures performance on unseen test data.
+
+### Example Output
+
+```text
+============================================================
+Accuracy of Logistic Regression Classifier on training set: 0.XX
+Accuracy of Logistic Regression Classifier on test set: 0.XX
+============================================================
+Accuracy of Decision Tree Classifier on training set: 1.00
+Accuracy of Decision Tree Classifier on test set: 0.XX
+============================================================
+Accuracy of KNeighbors Classifier on training set: 0.XX
+Accuracy of KNeighbors Classifier on test set: 0.XX
+============================================================
+Accuracy of Support vector machines(SVM) Classifier on training set: 0.XX
+Accuracy of Support vector machines(SVM) Classifier on test set: 0.XX
+```
+
+The exact results depend on the dataset and the train/test split.
+
+
 ## License
 
 This project is licensed under the **MIT License**.
