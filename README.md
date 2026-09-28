@@ -263,6 +263,22 @@ Accuracy of Support vector machines(SVM) Classifier on test set: 0.XX
 The exact results depend on the dataset and the train/test split.
 
 
+## Project Structure
+
+```text
+Fruit-Classification/
+│
+├── screenshots/
+│   └── fruit_scatter_matrix.png
+│
+├── fruit.txt
+├── fruit_classification.py
+├── requirements.txt
+├── LICENSE
+└── README.md
+```
+
+
 ## License
 
 This project is licensed under the **MIT License**.
