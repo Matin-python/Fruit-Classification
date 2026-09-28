@@ -279,6 +279,21 @@ Fruit-Classification/
 ```
 
 
+## Installation
+
+Install the required libraries using:
+
+```bash
+pip install pandas matplotlib scikit-learn
+```
+
+You can also install all dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
+
 ## License
 
 This project is licensed under the **MIT License**.
