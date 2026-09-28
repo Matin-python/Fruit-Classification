@@ -294,6 +294,21 @@ pip install -r requirements.txt
 ```
 
 
+## How to Run
+
+1. Make sure Python is installed.
+2. Place `fruit.txt` in the project directory.
+3. Create the `screenshots` folder and add the scatter matrix image.
+4. Install the required libraries.
+5. Run the Python script:
+
+```bash
+python fruit_classification.py
+```
+
+The program will display the scatter matrix and print the training and test accuracy for all four Machine Learning models.
+
+
 ## License
 
 This project is licensed under the **MIT License**.
